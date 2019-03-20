@@ -22,6 +22,7 @@ import java.io.Serializable;
 @EqualsAndHashCode(callSuper = false)
 @Accessors(chain = true)
 @TableName("oa_dept")
+//123356
 public class Dept extends Model<Dept> {
 
     private static final long serialVersionUID = 1L;
